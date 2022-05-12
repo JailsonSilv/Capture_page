@@ -12,7 +12,7 @@
 </p>
 
 ### Dê um CLICK e assista ao video de introdução. 👇👇👇
-<a href="http://https://user-images.githubusercontent.com/104876290/168142835-d55b79de-0bc3-4b85-beee-6882b76f160c.mp4" target="_blank" rel="noopener noreferrer"></a>
+https://user-images.githubusercontent.com/104876290/168142835-d55b79de-0bc3-4b85-beee-6882b76f160c.mp4
 
 
 ## Inscreva-se : https://jailsonsilv.github.io/Capture_page/
