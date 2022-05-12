@@ -17,5 +17,5 @@
 
 ## Inscreva-se : https://jailsonsilv.github.io/Capture_page/
 
-<p> Made by <a href="https://www.linkedin.com/in/jailsondev-front-end/
+<p> Made by <a href="https://www.linkedin.com/in/jailsondev-front-end/ target="_blank"
 ">Jailson Silva</a>❤️‍🔥</p>
