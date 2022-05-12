@@ -1,5 +1,5 @@
 # Capture_page 📄
-### Inscrever-se para entar em nosso site 😉
+### Inscrever-se para entrar em nosso site 😉
 ![Captura de tela ](https://user-images.githubusercontent.com/104876290/168137520-f6fb2d4d-bb9c-4577-ad32-a72f55016c95.png)
 
 # Como faço para entrar?
