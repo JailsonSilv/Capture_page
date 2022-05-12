@@ -12,10 +12,10 @@
 </p>
 
 ### Dê um CLICK e assista ao video de introdução. 👇👇👇
-https://user-images.githubusercontent.com/104876290/168142835-d55b79de-0bc3-4b85-beee-6882b76f160c.mp4
+<a href="http://https://user-images.githubusercontent.com/104876290/168142835-d55b79de-0bc3-4b85-beee-6882b76f160c.mp4" target="_blank" rel="noopener noreferrer"></a>
 
 
 ## Inscreva-se : https://jailsonsilv.github.io/Capture_page/
 
-<p> Made by <a href="www.linkedin.com/in/Jailsondev-front-end
+<p> Made by <a href="https://www.linkedin.com/in/jailsondev-front-end/
 ">Jailson Silva</a>❤️‍🔥</p>
